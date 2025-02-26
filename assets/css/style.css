@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+}
+
+.menu {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 56px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  margin: 0;
+}
+
+.menuimagens {
+  display: flex;
+  align-items: center;
+}
+
+.busca {
+  display: flex;
+  align-items: center;
+}
+
+.icons {
+  align-items: center;
+  margin: 10px;
+  display: flex;
+}
+
+.icons1 {
+  margin: 0px 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(243, 241, 237);
+}
+
+.video-e-videos {
+  display: flex;
+  margin-right: 10px; /* Adiciona espaço entre as imagens e a descrição */
+  justify-content: center;
+}
+
+.video {
+  margin-left: 50px;
+  margin-right: 25px; /* Adiciona espaço entre a imagem e a lista */
+}
+.videos {
+  width: 800px;
+  height: auto;
+}
+
+.descricao {
+  margin: 10px 0px 10px 0px;
+}
